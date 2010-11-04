@@ -1,0 +1,1 @@
+this folder stores the raw data, and is where get_data.r will put the downloaded files from GEO. This data should never change!
