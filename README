@@ -24,3 +24,5 @@ The structure of this project so far is as follows:
   preprocessed data
 /vis
   visualisation output
+/convention
+  R code defining conventions for this project 
