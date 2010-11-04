@@ -1,0 +1,7 @@
+--- # directory structure
+  root: "/Users/Mike/Dropbox/Projects/Biomarker/"
+  tests: ""
+  cache: "cache/"
+  data: "data/"
+  graphics: "vis/"
+
