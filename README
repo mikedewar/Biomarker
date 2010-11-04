@@ -1,0 +1,26 @@
+Finding Biomarkers From Array Data
+==================================
+
+This project aims to select discriminative proteins from large microarray studies for use as biomarkers in subsequent experiments. The possible space of discriminative probesets can be limited a priori. 
+
+The project code is written in R, and the aim is to eventually generate a Bioconductor pacakge to wrap this up as an easy to use function. 
+
+TODO
+====
+Recursive Feature Elimination
+Boosting
+interface with GEO
+confidence stats
+visualisations
+
+STRUCTURE
+=========
+The structure of this project so far is as follows:
+/src
+  source code
+/data
+  raw data
+/cache
+  preprocessed data
+/vis
+  visualisation output
